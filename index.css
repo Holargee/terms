@@ -1,17 +1,37 @@
 body{
      color:rgb(200,150,170);
      background-color:rgb(20,20,20);
+     overflow-x:hidden;
      
 }
 .term{
-				font-size:5vw;
+				font-size:6vw;
+				margin-top:2vw;
 }
 .wel{
 				margin-top:10vw;
-				font-size:4vw;
+				font-size:5vw;
 				margin-left:3vw;
 }
 p{
 				margin-top:5vw;
 				margin-left:3vw;
+}
+table{
+				border:1px solid pink;
+				margin-left:3vw;
+				padding:2vw;
+				font-family:serif;
+				white-space:nowrap;
+				text-align:left;
+				border-collapse:collapse;
+				width:100%;
+				font-size:4vw;
+				
+}
+td,th{
+				border:1px solid pink;
+}
+br{
+				margin-top:2vw;
 }
